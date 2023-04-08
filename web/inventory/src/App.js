@@ -1,10 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-
-
 import "bootstrap/dist/css/bootstrap.min.css";
-
 import FormInput from "./components/FormInput";
 import Formdata from "./components/Formdata";
 import Register from "./components/Register";
@@ -22,9 +19,6 @@ function App() {
     <>
   
     <BrowserRouter>
- 
-       
-     
         <Routes>
           <Route exact path='/' element={<Login />} />
           <Route exact path='/inventory' element={<Formdata />} />
@@ -33,6 +27,7 @@ function App() {
           <Route exact path='/home' element={<Home />} />
           <Route exact path='*' element={<Error />} />
         </Routes>
+
     <Footer/>
     </BrowserRouter>
     </>
