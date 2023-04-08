@@ -1,0 +1,19 @@
+
+  
+  .attribution {
+    text-align: center;
+    color:#7C3AED
+  }
+  
+  .attribution a {
+    color: #00106a;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  
+  .attribution a:hover {
+    color: #000;
+  }
+  
