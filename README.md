@@ -48,7 +48,7 @@ This has two access levels:
 - [Demo Video](https://www.youtube.com/watch?v=D03AIRtRgEw)
 - [GitHub Repository](https://github.com/vorachaitya/QuickBill)
 - [Hosted Website Link](https://billweb.harshilshah99.repl.co/)
-- [Devfolio Submission]()
+- [Devfolio Submission](https://devfolio.co/projects/quickbill-6fb4)
 - [APK Link](https://drive.google.com/file/d/1nfLXcerYDjP64WUwogYJWWnq26dBmPr_/view?usp=sharing)
 
 ### ⚙️ Tech Stack
