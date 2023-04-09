@@ -50,6 +50,7 @@ This has two access levels:
 - [Hosted Website Link](https://billweb.harshilshah99.repl.co/)
 - [Devfolio Submission](https://devfolio.co/projects/quickbill-6fb4)
 - [APK Link](https://drive.google.com/file/d/1nfLXcerYDjP64WUwogYJWWnq26dBmPr_/view?usp=sharing)
+- [Project idea presentation](https://docs.google.com/presentation/d/1C8QZONXgahyH6BUREHvYPA7MxsgPdUDA4l-iSoVg1tA/edit?usp=sharing)
 
 ### ⚙️ Tech Stack
 1. **Web Development**
