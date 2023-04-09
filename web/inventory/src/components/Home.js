@@ -23,7 +23,7 @@ const Home = () => {
 <section className="banner">
   <div className="container">
     <div className="banner-text">
-      <h1>BillEase</h1>
+      <h1>QuickBill</h1>
       
       <button><a href='/inventory' style={{color:'white',textDecoration:'none'}}>Inventory</a></button>
     </div>
